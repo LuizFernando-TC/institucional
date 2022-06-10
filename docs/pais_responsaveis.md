@@ -5,10 +5,10 @@ A base pedagógica das aulas foi desenvolvida de modo a atender as intenções d
 
 As motivações dos alunos são variadas, mas basicamente eles desejam aprender programação para desenvolver produtos tecnológicos, jogos, aplicativos, sites e possivelmente trilhar um caminho empreendedor. A Codaqui apoia este desejo incentivando a aprendizagem de forma autônoma e apoiando o desenvolvimento em comunidade.
 
-Aprendizagem com significado é aquela que responde ao interesse do aluno. Esta prática está entranhada nas aulas através do diálogo que provoca promove a participação dos alunoe promove a participação dos alunos.
+Aprendizagem com significado é aquela que responde ao interesse do aluno. Esta prática está entranhada nas aulas através do diálogo que promove a participação dos alunos.
 
 De acordo com Maria Montessori, pedagoga italiana, o desenvolvimento do jovem é fortemente impactado por:
-- busca por pertencer a um grupo - ter independência social, participar de forma autêntica num ambiente saudável
+- busca por pertencer a um grupo - ter independência social, participar de forma autêntica em um ambiente saudável
 - necessidade de realizar um serviço ou produzir algo que faça sentido para a sociedade - buscar uma função para o grupo, encontrar sentido para as ações
 - busca por independência financeira - dentro de uma atividade com função pedagógica
 
